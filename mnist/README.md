@@ -1,0 +1,2 @@
+# MNIST  
+* Practicing git   
